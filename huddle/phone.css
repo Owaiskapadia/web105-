@@ -1,0 +1,91 @@
+.container{
+    flex-direction: column;
+    margin: 0px;
+    padding: 0px;
+} 
+.navbar{
+    align-items: center;
+    top: 10px;
+    margin: 0px 10px;
+}
+.navbar a{
+    width: 50%;
+}
+.navbar img{
+    width: 30%;
+}
+.box1 h1{
+    margin: 70px 0px 10px 0px;
+    text-align: center;
+    max-width: 100%;
+}
+.box1{
+    padding-bottom: 20px;
+    width: 85%;
+}
+footer{
+    min-height: 100%;
+    padding: 0px;
+}
+.card2{
+    flex-direction: column;
+    min-height: 100%;
+    align-items: left;
+    
+    justify-content: unset;
+}
+.list2{
+    margin: 0px;
+    flex-direction: column;
+}
+.list3{
+    margin: 10px auto;
+}
+.card1{
+    flex-direction: column;
+    align-items: center;
+}
+
+.list1{
+    padding: 0;
+    margin-top: 63px;
+    width: 80vw;
+}
+p
+{
+font-size: 12px;
+}
+#btn1{
+    text-align: center;
+}
+.card3 h1{
+    margin: 0;
+font-size: 20px;
+}
+.card3{
+    height: 100px;
+    top: -58px;
+}
+#btn2 a{
+    padd
+    text-decoration: none;
+    background-color: hsl(322, 100%, 66%);
+    color: white;
+    padding: 5px 10px;
+    border-radius: 25px;
+    font-size: 0.5rem;
+}
+
+.main{
+    background-image: url('/images/bg-hero-mobile.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+ box-sizing: border-box;
+ background-color: hsl(193, 100%, 96%);
+ 
+}
+
+.bottom-logo img {
+    width: 60%;
+}
